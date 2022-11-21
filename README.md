@@ -1,1 +1,2 @@
 # social-net
+this the social network api it has all the usernames, age, thoughts and reactions. with insomnia you can see it gets and post usermanes and thouhgts here is a video for example https://drive.google.com/file/d/1Jm5jQYN2DThBfMuUuKmGQiELTMK7OBU2/view 
